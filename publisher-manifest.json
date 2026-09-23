@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "661d9524d653f4cb09063241",
+  "owner": "wan9900",
+  "repo": "page-fb86ab6e5946acd2c45ca562",
+  "title": "辣炒巨蜥",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fb86ab6e5946acd2c45ca562",
+      "a": "辣炒巨蜥",
+      "b": "稳定全球clash加速器",
+      "entity": "辣炒巨蜥",
+      "brand": "辣炒巨蜥",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4845d5450937784ab4ebe0df7f975635cda9b1722e810e0a7d9fbe5549705cd3",
+      "content": {
+        "primary_entity": "辣炒巨蜥",
+        "keyword1": "辣炒巨蜥",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，辣炒巨蜥面向需要跨区域访问与低延迟连接的用户，提供兼容 Clash 内核的订阅配置。在设备选择上覆盖 Windows、macOS、Android、iOS 与路由器端，按套餐差异可同时在线 3 台、5 台或 20 台设备。基础版每月 100GB 流量适合轻量浏览，旗舰版 300GB 并配备 IPLC 专线优化游戏与流媒体，团队版 1000GB 与 VIP 高带宽节点面向多人协作。年付方式下各版本分别约合 ¥150、¥350 与 ¥850。",
+          "AI_HERO_SUBTITLE": "跨区连接，按设备灵活选套餐",
+          "AI_HERO_INTRO": "辣炒巨蜥是一款面向全球网络访问的 Clash 订阅服务，通过订阅链接在常用客户端中完成配置，按设备数量、月流量和线路类型区分套餐，减少手动切换节点的操作负担。",
+          "AI_VISUAL_TITLE": "辣炒巨蜥全球加速",
+          "AI_HIGHLIGHT_1": "适配 Clash 订阅导入",
+          "AI_HIGHLIGHT_2": "3/5/20 台设备可选",
+          "AI_HIGHLIGHT_3": "IPLC 专线优化游戏",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURES_INTRO": "根据设备数量、流量消耗和线路需求确定版本，避免为闲置资源付费。",
+          "AI_FEATURE_TITLE_1": "按设备数匹配",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用设备总数选择。",
+          "AI_FEATURE_TITLE_2": "按流量估算",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合浏览器与社交，300GB 覆盖高清视频，1000GB 适合多人共享。",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_FEATURE_TEXT_3": "月付灵活切换，年付折算更低：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应 Clash 客户端，导入订阅后即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，流量与设备数依次提升。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "选购版本、确认设备适配、在 Clash 客户端导入订阅并连接。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "依据设备数量与月流量需求，在基础版、旗舰版和团队版中确定一个版本。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对常用设备的系统版本与 Clash 客户端类型，确认是否支持订阅导入。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在客户端中新建订阅并粘贴服务地址，更新节点列表后选择线路连接。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更省心",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求挑选版本，再用 Clash 客户端完成订阅导入即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "辣炒巨蜥三档套餐价格分别是多少？",
+          "AI_FAQ_ANSWER_1": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。年付按整年计费，适合确认长期使用的用户。",
+          "AI_FAQ_QUESTION_2": "每月流量用超了会怎样？",
+          "AI_FAQ_ANSWER_2": "各套餐设有每月流量额度，基础版 100GB、旗舰版 300GB、团队版 1000GB。流量接近上限时可考虑升级档位，具体处理方式以订阅说明为准。",
+          "AI_FAQ_QUESTION_3": "支持几台设备同时在线？",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台、旗舰版支持 5 台、团队版支持 20 台设备同时在线。统计日常使用的手机、电脑与平板总数后对应选择即可。",
+          "AI_FAQ_QUESTION_4": "手机和电脑客户端怎么选？",
+          "AI_FAQ_ANSWER_4": "iOS 常用 Shadowrocket 或 Quantumult X，Android 与桌面端可用 Clash、V2RayN 等。按系统选择对应客户端，并按客户端文档导入订阅。",
+          "AI_FAQ_QUESTION_5": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_5": "月付按月结算、灵活度较高，年付一次性支付整年费用，单月成本更低。三档套餐均提供两种周期，可按使用时长预期选择。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shanshuiyunclash.com",
+    "host": "shanshuiyunclash.com"
+  },
+  "file_hashes": {
+    "index.html": "ecea0cf3f438fef038e41eae2da99f5b190e602496be68091785cbeeb0fa0748",
+    "sitemap.xml": "99798ff218c6a04df71f55004af0aeaf42d88ad0e2f6f2ec6748d2976024a34b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "03b75fb0bf7bcb947c944b8ea92c890c869d46a184bc5289008d532ee8d16866",
+    "robots.txt": "f941d356bf0c737fddda3aec948fc64d5730c3e3e10396a848730fcd0c90dff9",
+    "42fdd2a83583359032f3431ed5e0b695.txt": "7d63858c56bacbc5ee9fb8f0551d0048f6503dca3adad28f59ce680ccd355dcc"
+  },
+  "revision": "9a8f44aad529c2fac2d69f9e990205de5bcf7d8e59ce80ddb5244ba519856479"
+}
